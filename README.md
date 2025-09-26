@@ -1,4 +1,4 @@
-#Sales Analysis Dashboard
+# Sales Analysis Dashboard
 
 This project presents a **Sales Analysis Dashboard** built using Power BI and a Kaggle sales dataset.  
 It highlights key sales metrics, customer behavior, and performance trends to support **data-driven decision-making**.
